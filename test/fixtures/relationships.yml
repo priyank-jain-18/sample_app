@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  follower: priyank
+  followed: lana
+
+two:
+  follower: priyank
+  followed: malory
+
+three:
+  follower: lana
+  followed: priyank
+
+four:
+  follower: archer
+  followed: priyank
